@@ -20,7 +20,7 @@ IN Solve2(V1,V2): WE HAVE SET sum ALREADY TO Float64.
 
 USING @code_warntype we can check type-stability of our functions.
 
-Also using @time we see that timw taken by Solve2(V1,V2) is lesser.
+Also using @time we see that time taken by Solve2(V1,V2) is lesser.
 Given below are the outputs returned by it.
 ============================================================================ 
 OUTPUT IN TERMINAL::
