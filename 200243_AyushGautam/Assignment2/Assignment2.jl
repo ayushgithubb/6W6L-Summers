@@ -50,7 +50,7 @@ function f(x,y)    ## defining f(x,y) as per question
 end
 
 function Solve1(V1,V2)   
-  sum=0           ## sum will have the abstract type Union{Int64,Float64}
+  sum=0           ## sum will have the abstract type Union{Int64,Float64 }
   for i = 1:10000
     x=V1[i]
     y=V2[i]
